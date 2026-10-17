@@ -1,6 +1,8 @@
 # Sobre_mi
-Hola, Soy darwin
-Soy aprendiz sena 
+Hola, Soy Darwin Mosquera
+
+aprendiz sena 
+
 Y esto es una prueba
 
 # *Mis intereses*
@@ -11,4 +13,4 @@ Y esto es una prueba
 -Ser muy bueno en lo que hago
 
 # *Que espero aprender en este curso*
-Aprender, todo los integraciones que tiene Github y sus formas de de como se puede implementar durante el desarollo de mi formacion.
+Aprender, todo los integraciones que tiene Github  sus formas de integrar e implementar durante el desarollo de mi formacion.
